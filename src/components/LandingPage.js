@@ -32,15 +32,7 @@ color=blue
       </div>
 
       {/* Success Stories Preview Section */}
-      <div id="success-stories" className="container mt-5 mb-5">
-        <h2 className="text-center text-primary">🌟 Success Stories</h2>
-        <p className="text-center text-muted">
-          Inspiring stories of transformation through education.
-        </p>
-        <div className="text-center">
-          <Link to="/SuccessStories" className="btn btn-outline-primary">Read More Stories</Link>
-        </div>
-      </div>
+     
     </div>
   );
 };
