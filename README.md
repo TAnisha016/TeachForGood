@@ -4,10 +4,16 @@ We aim to bridge the gap between willing educators and organizations working to 
 <h2>Deployed Link</h2>
 https://sohi07.github.io/TeachForGood/
 <br>
+
+<h2>Contributors</h2>
+- [Sohini Das](https://github.com/Sohi07/)
+- [Tanisha](https://github.com/TAnisha016)
+
 <h2>Note</h2>
 <p>This app is currently frontend-only! The login and signup forms are present to give an idea of the functionality of the website.<br>
 Backend integration and full functionality will be added in future updates.
 </p>
+
 
 
 
