@@ -20,7 +20,7 @@ color=blue
       <div className="container position-relative z-2 d-flex flex-column align-items-center justify-content-center vh-100">
         <h5 className="text-uppercase">
         <span>
-  Empower Change with <span style={{ color: "rgb(115, 188, 240)", fontStyle: "" }}>Teach for Good</span>
+  Empower Change with <span style={{ color: "rgb(74, 164, 228)", fontStyle: "" }}>Teach for Good</span>
 
 </span>
         </h5>
@@ -28,7 +28,7 @@ color=blue
         <p className="lead mx-auto w-75">
           Teach for Good connects passionate volunteers with NGOs dedicated to enhancing educational opportunities.
         </p>
-        <Link to="/join-us" className="btn btn-primary btn-lg mt-3">Join Us</Link>
+        <Link to="/join-us" className="btn btn-primary btn-lg mt-2">Join Us</Link>
       </div>
 
       {/* Success Stories Preview Section */}

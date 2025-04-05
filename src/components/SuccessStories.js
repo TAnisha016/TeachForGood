@@ -22,7 +22,7 @@ const SuccessStories = () => {
   ];
 
   return (
-    <div className="container mt-4" style={{ paddingTop: '60px' }}>
+    <div className="container mt-4" style={{ paddingTop: '62px' }}>
       <h1 className="text-center mb-4 text-primary">🌟 Success Stories 🌟</h1>
       <div className="row">
         {stories.map((story) => (
