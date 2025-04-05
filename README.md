@@ -6,7 +6,7 @@ https://sohi07.github.io/TeachForGood/
 <br>
 
 <h2>Contributors</h2>
-- [Sohini Das](https://github.com/Sohi07/)
+- [Sohini Das](https://github.com/Sohi07/)<br>
 - [Tanisha](https://github.com/TAnisha016)
 
 <h2>Note</h2>
